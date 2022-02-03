@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I am currently working as a computer teacher.
-- 🌱 I am currently learning React Native CLI.
+- 🌱 Currently learning web technology.
 - 📫 How to reach me: @isqualham
